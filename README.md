@@ -25,7 +25,7 @@ O frontend consome dados de uma **API REST** que precisa estar em execução par
 ### Passo a passo
 ```bash
 # Clone o repositório
-git clone https://github.com/RafaelSilvaGomes/lista-tarefas-web.git
+git clone https://github.com/iguibarbosa/listadetarefas-WEB.git
 
 # Acesse a pasta do projeto
 cd lista-tarefas-web
